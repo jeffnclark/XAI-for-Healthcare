@@ -1,0 +1,9 @@
+numpy==1.22.1
+pandas==1.3.5
+matplotlib == 3.5.0
+matplotlib-inline == 0.1.3
+opencv-python==4.9.0.80
+sklearn==0.0
+FAT-Forensics==0.1.2
+treeinterpreter==0.2.3
+
